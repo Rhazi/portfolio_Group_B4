@@ -44,6 +44,7 @@ How to run a backtest
  <br />
 Prepare data in data/multi_asset_etf_data.csv.
  <br />
+ <br />
 Use group_B_hmw_4.ipynb to run the backtest. It works sequentially:
  <br />
 load data
@@ -55,6 +56,8 @@ produce a report
 Reporting and analysis
  <br />
 group_b_hmw_4.ipynb should compute common metrics: mean returns, volatility, Sharpe ratios, and generate comparison plots. Use pandas and matplotlib for visuals.
-
+ <br />
+  <br />
 Contact
+ <br />
 For questions about this repository, ask this course group contributors. Include the file(s) you modified and a brief description of the expected vs actual behavior.
