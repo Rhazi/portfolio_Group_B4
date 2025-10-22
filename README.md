@@ -1,11 +1,14 @@
 A small educational framework developed for FINM367 — designed to run DFA and Factor Investing.
 
 Overview
+
 This repository implements a simple backtester. The repo file of interest: group_B_hmw_4.ipynb — jupyter script that wires all components together and runs experiments sequentially:
 
 Requirements
+ <br />
 Python 3.10+ recommended
 Create and activate a virtual environment before installing dependencies.
+ <br />
 Example (macOS / zsh):
 
 python3 -m venv .venv
